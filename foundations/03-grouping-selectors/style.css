@@ -4,6 +4,7 @@
 .tu {
     background-color: yellow;
 }
-.tu.tut {
+.tu,
+.tut {
     font-size: 28px; font-family: 'Times New Roman', Helvetica, sans-serif;
 }
