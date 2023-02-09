@@ -10,7 +10,7 @@ h1 {
 
 .card {
   width: 550px;
-  height: 222px;
+  height: 232px;
   padding-top: 0.009px;
   background:#fff;
   margin: 8px auto;
@@ -29,6 +29,8 @@ h1 {
   background: #e3f4ff;
   margin: 10px auto;
   padding: 10px;
+  padding-top: 16px;
+  padding-bottom: 16px;
   width: 510px;
   height: 45px;
 }
