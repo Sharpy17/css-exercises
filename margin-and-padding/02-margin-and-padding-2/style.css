@@ -9,38 +9,38 @@ h1 {
 }
 
 .card {
-  width: 600px;
-  height: 250px;
+  width: 550px;
+  height: 222px;
+  padding-top: 0.009px;
   background:#fff;
   margin: 8px auto;
+  margin-top: 25px;
 }
 
 .title {
   background: #e3f4ff;
   padding: 10px;
-  margin: 13px auto;
-  width: 550px;
+  margin: 10px auto;
+  width: 510px;
   height: 20px;
 }
 
 .content {
   background: #e3f4ff;
-  margin: 13px auto;
+  margin: 10px auto;
   padding: 10px;
-  padding-top: 10px;
-  width: 550px;
+  width: 510px;
   height: 45px;
 }
 
 .button-container {
   background: #e3f4ff;
-  margin: 5px auto;
   display: block;
-  margin: auto;
   text-align: center;
   padding: 10px;
-  width: 550px;
+  width: 510px;
   height: 55px;
+  margin: 10px auto;
 }
 
 button {
